@@ -1,0 +1,4 @@
+order deny, allow
+#    deny from 127.1.1.1
+#    allow from all
+	deny from all
